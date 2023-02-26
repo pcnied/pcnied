@@ -1,4 +1,4 @@
-## Salve salve, sou Peterson! 🤙
+## Salve, sou Peterson! 🤙
 
 No momento, estou cursando Full Stack Web pela Growdev! ✌
 
